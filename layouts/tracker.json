@@ -1,7 +1,7 @@
 {
   "tracker_horizontal": {
     "type": "container",
-    "background": "#00000000",
+    "background": "#34598C",
     "content": {
       "type": "dock",
       "dropshadow": true,
