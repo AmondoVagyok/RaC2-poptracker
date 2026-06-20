@@ -1,10 +1,13 @@
 ENABLE_DEBUG_LOG = true
 Tracker:AddItems("items/items.json")
+ScriptHost:LoadScript("scripts/items_import.lua")
 ScriptHost:LoadScript("scripts/utils.lua")
+ScriptHost:LoadScript("scripts/logic_helpers.lua")
 
 Tracker:AddMaps("maps/maps.json")
 
 -- Layout
+ScriptHost:LoadScript("scripts/layouts_import.lua")
 Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/tabs.json")
 Tracker:AddLayouts("layouts/tracker.json")
