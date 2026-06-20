@@ -3,7 +3,7 @@
     "name": "Yeedil",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["yeedilcoordinates"],
+    "access_rules": ["Yeedil"],
     "children": [
       {
         "name": "Bridge Grindrail",

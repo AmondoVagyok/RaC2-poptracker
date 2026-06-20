@@ -3,7 +3,7 @@
     "name": "Joba",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["jobacoordinates"],
+    "access_rules": ["Joba"],
     "children": [
       {
         "name": "Hoverbike Race",

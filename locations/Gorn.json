@@ -3,7 +3,7 @@
     "name": "Gorn",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["gorncoordinates"],
+    "access_rules": ["Gorn"],
     "children": [
       {
         "name": "Gorn",

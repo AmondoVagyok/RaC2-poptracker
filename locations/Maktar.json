@@ -3,7 +3,7 @@
     "name": "Maktar",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["maktarnebulacoordinates"],
+    "access_rules": ["Maktar"],
     "children": [
       {
         "name": "Arena Challenge",

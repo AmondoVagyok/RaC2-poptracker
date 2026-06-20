@@ -3,7 +3,7 @@
     "name": "Hrugis Cloud",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["hrugiscloudcoordinates"],
+    "access_rules": ["Hrugis"],
     "children": [
       {
         "name": "Hrugis Cloud",

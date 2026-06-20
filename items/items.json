@@ -11,21 +11,21 @@
     "type": "toggle",
     "img": "images/items/damoselcoordinates.png",
     "img_mods": "",
-    "codes": "damoselcoordinates"
+    "codes": "Damosel"
   },
   {
     "name": "Smolg",
     "type": "toggle",
     "img": "images/items/smolgcoordinates.png",
     "img_mods": "",
-    "codes": "smolgcoordinates"
+    "codes": "Smolg"
   },
   {
     "name": "Endako",
     "type": "toggle",
     "img": "images/items/endakocoordinates.png",
     "img_mods": "",
-    "codes": "endakocoordinates"
+    "codes": "Endako"
   },
   {
     "name": "Grind Boots",
@@ -46,7 +46,7 @@
     "type": "toggle",
     "img": "images/items/snivelakcoordinates.png",
     "img_mods": "",
-    "codes": "snivelakcoordinates"
+    "codes": "Snivelak"
   },
   {
     "name": "Mapper",
@@ -60,14 +60,14 @@
     "type": "toggle",
     "img": "images/items/jobacoordinates.png",
     "img_mods": "",
-    "codes": "jobacoordinates"
+    "codes": "Joba"
   },
   {
     "name": "Feltzin System",
     "type": "toggle",
     "img": "images/items/feltzinsystemcoordinates.png",
     "img_mods": "",
-    "codes": "feltzinsystemcoordinates"
+    "codes": "Feltzin"
   },
   {
     "name": "Thruster-Pack",
@@ -88,14 +88,14 @@
     "type": "toggle",
     "img": "images/items/oozlacoordinates.png",
     "img_mods": "",
-    "codes": "oozlacoordinates"
+    "codes": "Oozla"
   },
   {
     "name": "Hrugis Cloud",
     "type": "toggle",
     "img": "images/items/hrugiscloudcoordinates.png",
     "img_mods": "",
-    "codes": "hrugiscloudcoordinates"
+    "codes": "Hrugis"
   },
   {
     "name": "Thermanator",
@@ -130,14 +130,14 @@
     "type": "toggle",
     "img": "images/items/yeedilcoordinates.png",
     "img_mods": "",
-    "codes": "yeedilcoordinates"
+    "codes": "Yeedil"
   },
   {
     "name": "Todano",
     "type": "toggle",
     "img": "images/items/todanocoordinates.png",
     "img_mods": "",
-    "codes": "todanocoordinates"
+    "codes": "Todano"
   },
   {
     "name": "Platinum Bolts",
@@ -163,7 +163,7 @@
     "type": "toggle",
     "img": "images/items/aranosprisoncoordinates.png",
     "img_mods": "",
-    "codes": "aranosprisoncoordinates"
+    "codes": "Aranos"
   },
   {
     "name": "Qwark Statuette",
@@ -245,49 +245,49 @@
     "type": "toggle",
     "img": "images/items/siberiuscoordinates.png",
     "img_mods": "",
-    "codes": "siberiuscoordinates"
+    "codes": "Siberius"
   },
   {
     "name": "Gorn",
     "type": "toggle",
     "img": "images/items/gorncoordinates.png",
     "img_mods": "",
-    "codes": "gorncoordinates"
+    "codes": "Gorn"
   },
   {
     "name": "Grelbin",
     "type": "toggle",
     "img": "images/items/grelbincoordinates.png",
     "img_mods": "",
-    "codes": "grelbincoordinates"
+    "codes": "Grelbin"
   },
   {
     "name": "Barlow",
     "type": "toggle",
     "img": "images/items/barlowcoordinates.png",
     "img_mods": "",
-    "codes": "barlowcoordinates"
+    "codes": "Barlow"
   },
   {
     "name": "Dobbo",
     "type": "toggle",
     "img": "images/items/dobbocoordinates.png",
     "img_mods": "",
-    "codes": "dobbocoordinates"
+    "codes": "Dobbo"
   },
   {
     "name": "Tabora",
     "type": "toggle",
     "img": "images/items/taboracoordinates.png",
     "img_mods": "",
-    "codes": "taboracoordinates"
+    "codes": "Tabora"
   },
   {
     "name": "Boldan",
     "type": "toggle",
     "img": "images/items/boldancoordinates.png",
     "img_mods": "",
-    "codes": "boldancoordinates"
+    "codes": "Boldan"
   },
   {
     "name": "Nanotech Boost",
@@ -306,14 +306,14 @@
     "type": "toggle",
     "img": "images/items/notakcoordinates.png",
     "img_mods": "",
-    "codes": "notakcoordinates"
+    "codes": "Notak"
   },
   {
     "name": "Maktar Nebula",
     "type": "toggle",
     "img": "images/items/maktarnebulacoordinates.png",
     "img_mods": "",
-    "codes": "maktarnebulacoordinates"
+    "codes": "Maktar"
   },
   {
     "name": "Gravity Boots",

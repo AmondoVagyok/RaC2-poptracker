@@ -3,7 +3,7 @@
     "name": "Smolg",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["smolgcoordinates"],
+    "access_rules": ["Smolg"],
     "children": [
       {
         "name": "Distribution Facility End",

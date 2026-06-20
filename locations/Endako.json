@@ -3,7 +3,7 @@
     "name": "Endako",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["endakocoordinates"],
+    "access_rules": ["Endako"],
     "children": [
       {
         "name": "Clank's Apartment",

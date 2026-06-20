@@ -15,37 +15,37 @@
             "h_alignment": "left",
             "item_h_alignment": "center",
             "item_v_alignment": "center",
-            "item_height": 36,
-            "item_width": 36,
+            "item_height": 48,
+            "item_width": 48,
             "rows": [
               [
-                "oozlacoordinates",
-                "maktarnebulacoordinates",
-                "endakocoordinates",
-                "barlowcoordinates",
-                "feltzinsystemcoordinates"
+                "Oozla",
+                "Maktar",
+                "Endako",
+                "Barlow",
+                "Feltzin"
               ],
               [
-                "notakcoordinates",
-                "siberiuscoordinates",
-                "taboracoordinates",
-                "dobbocoordinates",
-                "hrugiscloudcoordinates"
+                "Notak",
+                "Siberius",
+                "Tabora",
+                "Dobbo",
+                "Hrugis"
               ],
               [
-                "jobacoordinates",
-                "todanocoordinates",
-                "boldancoordinates",
-                "aranosprisoncoordinates",
-                "gorncoordinates"
+                "Joba",
+                "Todano",
+                "Boldan",
+                "Aranos",
+                "Gorn"
 
               ],
               [
-                "snivelakcoordinates",
-                "smolgcoordinates",
-                "damoselcoordinates",
-                "grelbincoordinates",
-                "yeedilcoordinates"
+                "Snivelak",
+                "Smolg",
+                "Damosel",
+                "Grelbin",
+                "Yeedil"
               ]
             ]
           }

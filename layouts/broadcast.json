@@ -54,32 +54,32 @@
                 "nothing"
               ],
               [
-                "oozlacoordinates",
-                "maktarnebulacoordinates",
-                "endakocoordinates",
-                "barlowcoordinates",
-                "feltzinsystemcoordinates"
+                "Oozla",
+                "Maktar",
+                "Endako",
+                "Barlow",
+                "Feltzin"
               ],
               [
-                "notakcoordinates",
-                "siberiuscoordinates",
-                "taboracoordinates",
-                "dobbocoordinates",
-                "hrugiscloudcoordinates"
+                "Notak",
+                "Siberius",
+                "Tabora",
+                "Dobbo",
+                "Hrugis"
               ],
               [
-                "jobacoordinates",
-                "todanocoordinates",
-                "boldancoordinates",
-                "aranosprisoncoordinates",
-                "gorncoordinates"
+                "Joba",
+                "Todano",
+                "Boldan",
+                "Aranos",
+                "Gorn"
               ],
               [
-                "snivelakcoordinates",
-                "smolgcoordinates",
-                "damoselcoordinates",
-                "grelbincoordinates",
-                "yeedilcoordinates"
+                "Snivelak",
+                "Smolg",
+                "Damosel",
+                "Grelbin",
+                "Yeedil"
               ]
             ]
           }

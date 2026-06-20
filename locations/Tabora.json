@@ -3,7 +3,7 @@
     "name": "Tabora",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["taboracoordinates,swingshot,heli-pack"],
+    "access_rules": ["Tabora,swingshot,heli-pack"],
     "children": [
       {
         "name": "Underground Mines",

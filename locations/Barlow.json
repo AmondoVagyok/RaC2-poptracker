@@ -3,7 +3,7 @@
     "name": "Barlow",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["barlowcoordinates"],
+    "access_rules": ["Barlow"],
     "children": [
       {
         "name": "Inventor",

@@ -3,7 +3,7 @@
     "name": "Notak",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["notakcoordinates"],
+    "access_rules": ["Notak"],
     "children": [
       {
         "name": "Behind Building",

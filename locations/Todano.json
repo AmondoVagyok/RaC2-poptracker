@@ -3,7 +3,7 @@
     "name": "Todano",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["todanocoordinates"],
+    "access_rules": ["Todano"],
     "children": [
       {
         "name": "Stuart Zurgo",

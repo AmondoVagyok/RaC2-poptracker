@@ -3,7 +3,7 @@
     "name": "Boldan",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["boldancoordinates"],
+    "access_rules": ["Boldan"],
     "children": [
       {
         "name": "Spiderbot Alley",

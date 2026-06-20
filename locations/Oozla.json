@@ -3,7 +3,7 @@
     "name": "Oozla",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["oozlacoordinates"],
+    "access_rules": ["Oozla"],
     "children": [
       {
         "name": "Outside Megacorp Store",

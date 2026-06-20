@@ -3,7 +3,7 @@
     "name": "Dobbo",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["dobbocoordinates"],
+    "access_rules": ["Dobbo"],
     "children": [
       {
         "name": "Spiderbot Room",

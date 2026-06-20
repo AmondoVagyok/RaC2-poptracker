@@ -3,7 +3,7 @@
     "name": "Siberius",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["siberiuscoordinates"],
+    "access_rules": ["Siberius"],
     "children": [
       {
         "name": "Flamebot Ledge",

@@ -3,7 +3,7 @@
     "name": "Feltzin",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["feltzinsystemcoordinates"],
+    "access_rules": ["Feltzin"],
     "children": [
       {
         "name": "Feltzin",

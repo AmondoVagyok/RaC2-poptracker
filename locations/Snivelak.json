@@ -3,7 +3,7 @@
     "name": "Snivelak",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["snivelakcoordinates"],
+    "access_rules": ["Snivelak"],
     "children": [
       {
         "name": "Dynamo Platforms",

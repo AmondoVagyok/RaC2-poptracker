@@ -591,59 +591,59 @@
         "sections": [
           {
             "name": "Oozla Weapon 1",
-            "access_rules": ["oozlacoordinates"]
+            "access_rules": ["Oozla"]
           },
           {
             "name": "Oozla Weapon 2",
-            "access_rules": ["oozlacoordinates"]
+            "access_rules": ["Oozla"]
           },
           {
             "name": "Endako Weapon 1",
-            "access_rules": ["endakocoordinates"]
+            "access_rules": ["Endako"]
           },
           {
             "name": "Endako Weapon 2",
-            "access_rules": ["endakocoordinates"]
+            "access_rules": ["Endako"]
           },
           {
             "name": "Barlow Weapon",
-            "access_rules": ["barlowcoordinates"]
+            "access_rules": ["Barlow"]
           },
           {
             "name": "Notak Weapon",
-            "access_rules": ["notakcoordinates"]
+            "access_rules": ["Notak"]
           },
           {
             "name": "Tabora Weapon 1",
-            "access_rules": ["taboracoordinates,swingshot,heli-pack"]
+            "access_rules": ["Tabora,swingshot,heli-pack"]
           },
           {
             "name": "Tabora Weapon 2",
-            "access_rules": ["taboracoordinates,swingshot,heli-pack"]
+            "access_rules": ["Tabora,swingshot,heli-pack"]
           },
           {
             "name": "Dobbo Weapon",
-            "access_rules": ["dobbocoordinates"]
+            "access_rules": ["Dobbo"]
           },
           {
             "name": "Joba Weapon 1",
-            "access_rules": ["jobacoordinates"]
+            "access_rules": ["Joba"]
           },
           {
             "name": "Joba Weapon 2",
-            "access_rules": ["jobacoordinates"]
+            "access_rules": ["Joba"]
           },
           {
             "name": "Todano Weapon",
-            "access_rules": ["todanocoordinates"]
+            "access_rules": ["Todano"]
           },
           {
             "name": "Aranos Weapon 1",
-            "access_rules": ["aranosprisoncoordinates,gravityboots,levitator,infiltrator"]
+            "access_rules": ["Aranos,gravityboots,levitator,infiltrator"]
           },
           {
             "name": "Aranos Weapon 2",
-            "access_rules": ["aranosprisoncoordinates,gravityboots,levitator,infiltrator"]
+            "access_rules": ["Aranos,gravityboots,levitator,infiltrator"]
           }
         ],
         "map_locations": [
