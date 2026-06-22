@@ -136,7 +136,7 @@ end
 function dobbo_facility_terminal()
   local fpg = get_first_person_setting()
   if fpg >= 2 then
-    return true
+    return has("electrolyzer")
   end
   return has("swingshot") and has("glider") and has("dynamo") and has("electrolyzer")
 end
@@ -188,7 +188,7 @@ end
 function joba_hidden_cliff_pb()
   local fpg = get_first_person_setting()
   if fpg >= 2 then
-    return True
+    return true
   end
   return has("dynamo") and has("swingshot")
 end
