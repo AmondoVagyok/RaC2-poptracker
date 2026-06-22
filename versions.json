@@ -1,6 +1,16 @@
 {
 	"versions": [
 		{
+			"package_version": "0.4.1",
+			"download_url": "https://github.com/AmondoVagyok/RaC2-poptracker/releases/download/0.4.1/RaC2-poptracker_0.4.1.zip",
+			"sha256": "320626b1372cd7ed8889cb59f69ff5848db7d8911ce3aeb94f1b75805b90dc2b",
+			"changelog": [
+				"Complete overhaul of the icons and the background of the pack",
+                "Fixed Joba: Hidden Ledge Platinum Bolt logic on First Person Mode medium and hard logic levels",
+                "Fixed Dobbo: Terminal logic on First Person Mode medium and hard logic levels (note: still an issue in the apworld)"
+			]
+		},
+		{
 			"package_version": "0.4.0",
 			"download_url": "https://github.com/cloudofdarkhole6/RaC2-poptracker/releases/download/0.4.0/RaC2-poptracker_0.4.0.zip",
 			"sha256": "5c2d072e0bf7adf76685f1619e9d6b8083a545ab30c890b9180c4ef48c17021f",
