@@ -1,9 +1,9 @@
 {
   "name": "Ratchet & Clank 2 Archipelago",
   "game_name": "Ratchet & Clank 2",
-  "package_version": "0.4.0",
+  "package_version": "0.4.1",
   "package_uid": "ratchet & clank 2_ap",
-  "author": "Cloudofdarkhole6",
+  "author": "Amondo",
   "variants": {
     "Map Tracker": {
       "display_name": "Map Tracker",
@@ -12,6 +12,6 @@
       ]
     }
   },
-  "versions_url": "https://raw.githubusercontent.com/cloudofdarkhole6/RaC2-poptracker/main/versions.json",
+  "versions_url": "https://raw.githubusercontent.com/AmondoVagyok/RaC2-poptracker/main/versions.json",
   "min_poptracker_version": "0.27.0"
 }
