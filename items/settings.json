@@ -60,34 +60,34 @@
     ]
   },
   {
-    "name": "First Person Glitch",
+    "name": "Glitch Logic Difficulty",
     "type": "progressive",
     "allow_disabled": false,
     "loop": true,
     "stages": [
       {
         "img": "images/settings/fpg_off.png",
-        "codes": "first_person_setting,first_person_glitch_off",
+        "codes": "glitch_logic_difficulty,glitch_logic_difficulty_beginner",
         "inherit_codes": false,
-        "name": "First Person Glitch logic - off"
+        "name": "Glitch Logic Difficulty - beginner"
       },
       {
         "img": "images/settings/fpg_easy.png",
-        "codes": "first_person_setting,first_person_glitch_easy",
+        "codes": "glitch_logic_difficulty,glitch_logic_difficulty_medium",
         "inherit_codes": false,
-        "name": "First Person Glitch logic - easy"
+        "name": "Glitch Logic Difficulty - medium"
       },
       {
         "img": "images/settings/fpg_medium.png",
-        "codes": "first_person_setting,first_person_glitch_medium",
+        "codes": "glitch_logic_difficulty,glitch_logic_difficulty_hard",
         "inherit_codes": false,
-        "name": "First Person Glitch logic - medium"
+        "name": "Glitch Logic Difficulty - hard"
       },
       {
         "img": "images/settings/fpg_hard.png",
-        "codes": "first_person_setting,first_person_glitch_hard",
+        "codes": "glitch_logic_difficulty,glitch_logic_difficulty_expert",
         "inherit_codes": false,
-        "name": "First Person Glitch logic - hard"
+        "name": "Glitch Logic Difficulty - expert"
       }
     ]
   }

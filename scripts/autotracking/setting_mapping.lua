@@ -23,14 +23,14 @@ SLOT_CODES = {
             [1] = 1 -- Gadgetron vendor randomized
         }
     },
-    first_person_mode_glitch_in_logic = {
-        code = "first_person_setting",
+    glitch_logic_difficulty = {
+        code = "glitch_logic_difficulty",
         type = "progressive",
         mapping = {
-            [0] = 0, -- First Person not in logic
-            [1] = 1, -- FPG easy
-            [2] = 2, -- FPG medium
-            [3] = 3 -- FPG hard
+            [0] = 0, -- GLD beginner
+            [1] = 1, -- GLD medium
+            [2] = 2, -- GLD hard
+            [3] = 3 -- GLD expert
         }
     }
 }
