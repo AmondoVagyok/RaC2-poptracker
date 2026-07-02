@@ -42,7 +42,7 @@
       },
       {
         "name": "Hound Cave",
-        "access_rules": ["swingshot"],
+        "access_rules": ["$barlow_hound_cave_pb"],
         "sections": [
           {
             "name": "Platinum Bolt"
