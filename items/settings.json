@@ -66,25 +66,25 @@
     "loop": true,
     "stages": [
       {
-        "img": "images/settings/fpg_off.png",
+        "img": "images/settings/gld_beginner.png",
         "codes": "glitch_logic_difficulty,glitch_logic_difficulty_beginner",
         "inherit_codes": false,
         "name": "Glitch Logic Difficulty - beginner"
       },
       {
-        "img": "images/settings/fpg_easy.png",
+        "img": "images/settings/gld_medium.png",
         "codes": "glitch_logic_difficulty,glitch_logic_difficulty_medium",
         "inherit_codes": false,
         "name": "Glitch Logic Difficulty - medium"
       },
       {
-        "img": "images/settings/fpg_medium.png",
+        "img": "images/settings/gld_hard.png",
         "codes": "glitch_logic_difficulty,glitch_logic_difficulty_hard",
         "inherit_codes": false,
         "name": "Glitch Logic Difficulty - hard"
       },
       {
-        "img": "images/settings/fpg_hard.png",
+        "img": "images/settings/gld_expert.png",
         "codes": "glitch_logic_difficulty,glitch_logic_difficulty_expert",
         "inherit_codes": false,
         "name": "Glitch Logic Difficulty - expert"

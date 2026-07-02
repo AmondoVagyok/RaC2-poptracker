@@ -113,7 +113,7 @@ function barlow_inventor()
     return has("swingshot")
 end
 
-function barlow_overbike_race()
+function barlow_hoverbike_race()
     local gld = get_glitch_logic_difficulty()
     if can_improved_jump() and has("electrolyzer") then
         return true
