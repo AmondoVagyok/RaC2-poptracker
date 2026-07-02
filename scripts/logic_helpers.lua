@@ -621,7 +621,7 @@ end
 function yeedil_tractor_pillar_pb()
     local gld = get_glitch_logic_difficulty()
     if has("hypnomatic") and has("swingshot") and has("infiltrator") and has("dynamo")
-       and can_improved_jump() and has("electrolyzer") and has("tractorbeam") and has("grindboots")) then
+       and can_improved_jump() and has("electrolyzer") and has("tractorbeam") and has("grindboots") then
         return true
     end
     if gld >= 3 and (has("chargeboots") and has("hoverbombgun") and can_clip() and has("electrolyzer")
