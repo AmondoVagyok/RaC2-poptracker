@@ -12,6 +12,7 @@ end
 
 function can_clip()
     return has("decoyglove") or has("miniturretglove")
+end
 
 function oozla_end_store_cutscene()
     local gld = get_glitch_logic_difficulty()
@@ -250,7 +251,7 @@ function tabora_canyon_glide_pb()
     if has("heli-pack") and can("swingshot") and has("thermanator") and has("glider") then
         return true
     end
-    if gld >= 3 and (has("swingshot") and has("thermanator") and has("glider") then
+    if gld >= 3 and (has("swingshot") and has("thermanator") and has("glider")) then
         return true
     end
     if gld >= 1 then
@@ -413,7 +414,7 @@ end
 
 function todano_spiderbot_conveyor_pb()
     local gld = get_glitch_logic_difficulty()
-    if has("electrolyzer") and has("tractorbeam") and can_improved_jump() and has("spiderbot")
+    if has("electrolyzer") and has("tractorbeam") and can_improved_jump() and has("spiderbot") then
         return true
     end
     if gld >= 3 and (has("electrolyzer") and can_clip()) then
@@ -620,7 +621,7 @@ end
 function yeedil_tractor_pillar_pb()
     local gld = get_glitch_logic_difficulty()
     if has("hypnomatic") and has("swingshot") and has("infiltrator") and has("dynamo")
-       and can_improved_jump() and has("electrolyzer") and has("tractorbeam") and has("grindboots") then
+       and can_improved_jump() and has("electrolyzer") and has("tractorbeam") and has("grindboots")) then
         return true
     end
     if gld >= 3 and (has("chargeboots") and has("hoverbombgun") and can_clip() and has("electrolyzer")
