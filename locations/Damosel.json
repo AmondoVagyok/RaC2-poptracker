@@ -7,7 +7,7 @@
     "children": [
       {
         "name": "Train Rails",
-        "access_rules": ["grindboots"],
+        "access_rules": ["$damosel_train_rails"],
         "sections": [
           {
             "name": "Hypnomatic Part"
@@ -38,7 +38,7 @@
       },
       {
         "name": "Frozen Fountain",
-        "access_rules": ["$can_improved_jump,swingshot,thermanator,grindboots"],
+        "access_rules": ["$damosel_frozen_mountain_pb"],
         "sections": [
           {
             "name": "Platinum Bolt"
@@ -54,7 +54,7 @@
       },
       {
         "name": "Pyramid",
-        "access_rules": ["$can_improved_jump,swingshot,hypnomatic"],
+        "access_rules": ["$damosel_pyramid_pb"],
         "sections": [
           {
             "name": "Platinum Bolt"
@@ -72,7 +72,7 @@
     "sections": [
       {
         "name": "Hypnotist",
-        "access_rules": ["$can_improved_jump,swingshot,thermanator,hpfull"]
+        "access_rules": ["$damosel_hypnotist_pb"]
       }
     ],
     "map_locations": [

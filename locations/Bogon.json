@@ -615,11 +615,11 @@
           },
           {
             "name": "Tabora Weapon 1",
-            "access_rules": ["Tabora,swingshot,heli-pack"]
+            "access_rules": ["Tabora"]
           },
           {
             "name": "Tabora Weapon 2",
-            "access_rules": ["Tabora,swingshot,heli-pack"]
+            "access_rules": ["Tabora"]
           },
           {
             "name": "Dobbo Weapon",
@@ -639,11 +639,11 @@
           },
           {
             "name": "Aranos Weapon 1",
-            "access_rules": ["Aranos,gravityboots,levitator,infiltrator"]
+            "access_rules": ["Aranos"]
           },
           {
             "name": "Aranos Weapon 2",
-            "access_rules": ["Aranos,gravityboots,levitator,infiltrator"]
+            "access_rules": ["Aranos"]
           }
         ],
         "map_locations": [

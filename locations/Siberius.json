@@ -41,7 +41,7 @@
     "sections": [
       {
         "name": "Defeat Thief",
-        "access_rules": ["swingshot"]
+        "access_rules": ["$siberius_defeat_thief"]
       }
     ],
     "map_locations": [

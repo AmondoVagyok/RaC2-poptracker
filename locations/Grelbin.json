@@ -7,7 +7,7 @@
     "children": [
       {
         "name": "Mystic More Moonstones",
-        "access_rules": ["glider,infiltrator"],
+        "access_rules": ["$grelbin_mystic_more_moonstones"],
         "sections": [
           {
             "name": "Hypnomatic Part"
@@ -23,7 +23,7 @@
       },
       {
         "name": "Ice Plains",
-        "access_rules": ["glider,infiltrator"],
+        "access_rules": ["$grelbin_ice_plains_pb"],
         "sections": [
           {
             "name": "Platinum Bolt"
@@ -39,7 +39,7 @@
       },
       {
         "name": "Underwater Tunnel",
-        "access_rules": ["hypnomatic"],
+        "access_rules": ["$grelbin_underwater_tunnel_pb"],
         "sections": [
           {
             "name": "Platinum Bolt"
@@ -55,7 +55,7 @@
       },
       {
         "name": "Yeti Cave",
-        "access_rules": ["glider,infiltrator,hypnomatic"],
+        "access_rules": ["$grelbin_yeti_cave_pb"],
         "sections": [
           {
             "name": "Platinum Bolt"

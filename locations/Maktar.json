@@ -22,13 +22,14 @@
       },
       {
         "name": "Jamming Array",
-        "access_rules": ["tractorbeam"],
         "sections": [
           {
-            "name": "Deactivate Jamming Array"
+            "name": "Deactivate Jamming Array",
+            "access_rules": ["$maktar_deactivate_jamming_array"]
           },
           {
-            "name": "Platinum Bolt"
+            "name": "Platinum Bolt",
+            "access_rules": ["$maktar_jamming_array_pb"]
           }
         ],
         "map_locations": [

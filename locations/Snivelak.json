@@ -41,7 +41,7 @@
     "sections": [
       {
         "name": "Rescue Angela",
-        "access_rules": ["$snivelak_rescue_angelak"]
+        "access_rules": ["$snivelak_rescue_angela"]
       }
     ],
     "map_locations": [

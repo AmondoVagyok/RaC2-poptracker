@@ -40,14 +40,14 @@
       },
       {
         "name": "Crane",
-        "access_rules": ["electrolyzer"],
         "sections": [
           {
-            "name": "Platinum Bolt"
+            "name": "Platinum Bolt",
+            "access_rules": ["$endako_crane_pb"]
           },
           {
             "name": "Nanotech Boost",
-            "access_rules": ["infiltrator"]
+            "access_rules": ["$endako_crane_nt"]
           }
         ],
         "map_locations": [
@@ -62,11 +62,11 @@
     "sections": [
       {
         "name": "Rescue Clank Heli-Pack",
-        "access_rules": ["electrolyzer"]
+        "access_rules": ["$endako_rescue_clank"]
       },
       {
         "name": "Rescue Clank Thruster-Pack",
-        "access_rules": ["electrolyzer"]
+        "access_rules": ["$endako_rescue_clank"]
       }
     ],
     "map_locations": [

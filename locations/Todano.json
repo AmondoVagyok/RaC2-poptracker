@@ -7,14 +7,14 @@
     "children": [
       {
         "name": "Stuart Zurgo",
-        "access_rules": ["$todano_stuart_zurgo_area"],
         "sections": [
           {
-            "name": "Platinum Bolt"
+            "name": "Platinum Bolt",
+            "access_rules": ["$todano_near_stuart_zurgo_pb"]
           },
           {
             "name": "Armor Magnetizer",
-            "access_rules": ["qwarkstatuette"]
+            "access_rules": ["$todano_stuart_zurgo_trade"]
           }
         ],
         "map_locations": [

@@ -3,14 +3,14 @@
     "name": "Tabora",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
-    "access_rules": ["Tabora,swingshot,heli-pack"],
+    "access_rules": ["Tabora"],
     "children": [
       {
         "name": "Underground Mines",
-        "access_rules": ["thermanator"],
         "sections": [
           {
-            "name": "Platinum Bolt"
+            "name": "Platinum Bolt",
+            "access_rules": ["$tabora_underground_mines_pb"]
           }
         ],
         "map_locations": [
@@ -23,7 +23,7 @@
       },
       {
         "name": "Underground Mine",
-        "access_rules": ["$tabora_underground_mines_glider"],
+        "access_rules": ["$tabora_underground_mines_end"],
         "sections": [
           {
             "name": "Glider"
@@ -57,7 +57,8 @@
         "name": "Northeast Desert",
         "sections": [
           {
-            "name": "Platinum Bolt"
+            "name": "Platinum Bolt",
+            "access_rules": ["$tabora_northeast_desert_pb"]
           }
         ],
         "map_locations": [
@@ -102,7 +103,8 @@
     ],
     "sections": [
       {
-        "name": "Meet Angela"
+        "name": "Meet Angela",
+        "access_rules": ["$tabora_meet_angela"]
       }
     ],
     "map_locations": [

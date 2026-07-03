@@ -9,7 +9,7 @@
         "name": "Hoverbike Race",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
-        "access_rules": ["swingshot"],
+        "access_rules": ["$joba_hoverbike_race"],
         "sections": [
           {
             "name": "Charge Boots"

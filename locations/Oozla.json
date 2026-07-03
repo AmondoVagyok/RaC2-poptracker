@@ -53,7 +53,7 @@
       },
       {
         "name": "Swamp Ruins",
-        "access_rules": ["$oozla_swamp_ruins_pp"],
+        "access_rules": ["$oozla_swamp_ruins_pb"],
         "sections": [
           {
             "name": "Platinum Bolt"
@@ -69,7 +69,7 @@
       },
       {
         "name": "Swamp Monster II",
-        "access_rules": ["dynamo,gravityboots"],
+        "access_rules": ["$oozla_swamp_monster_ii"],
         "sections": [
           {
             "name": "Box Breaker"
@@ -87,7 +87,7 @@
     "sections": [
       {
         "name": "End of Store Cutscene",
-        "access_rules": ["$oozla_store_end"]
+        "access_rules": ["$oozla_end_store_cutscene"]
       }
     ],
     "map_locations": [
