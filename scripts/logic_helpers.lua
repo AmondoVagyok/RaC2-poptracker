@@ -193,7 +193,7 @@ end
 
 function tabora_meet_angela()
     local gld = get_glitch_logic_difficulty()
-    if has("heli-pack") and can("swingshot") then
+    if has("heli-pack") and has("swingshot") then
         return true
     end
     if gld >= 3 and has("swingshot") then
@@ -207,7 +207,7 @@ end
 
 function tabora_underground_mines_end()
     local gld = get_glitch_logic_difficulty()
-    if has("heli-pack") and can("swingshot") and has("thermanator") then
+    if has("heli-pack") and has("swingshot") and has("thermanator") then
         return true
     end
     if gld >= 3 and (has("swingshot") and has("thermanator")) then
@@ -229,7 +229,7 @@ end
 
 function tabora_underground_mines_pb()
     local gld = get_glitch_logic_difficulty()
-    if has("heli-pack") and can("swingshot") and has("thermanator") then
+    if has("heli-pack") and has("swingshot") and has("thermanator") then
         return true
     end
     if gld >= 3 and (has("swingshot") and has("thermanator")) then
@@ -248,7 +248,7 @@ end
 
 function tabora_canyon_glide_pb()
     local gld = get_glitch_logic_difficulty()
-    if has("heli-pack") and can("swingshot") and has("thermanator") and has("glider") then
+    if has("heli-pack") and has("swingshot") and has("thermanator") and has("glider") then
         return true
     end
     if gld >= 3 and (has("swingshot") and has("thermanator") and has("glider")) then
