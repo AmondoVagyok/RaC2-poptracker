@@ -489,5 +489,32 @@
     "img": "images/items/walloper.png",
     "img_mods": "",
     "codes": "walloper"
+  },
+  {
+    "name": "OmniWrench Upgrades",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages":
+    [
+      {
+        "img": "/images/items/progressivewrench.png",
+        "codes": "progressivewrench,pw0",
+        "inherit_codes": false,
+        "name": "OmniWrench Upgrades: 0"
+      },
+      {
+        "img": "/images/items/progressivewrench1.png",
+        "codes": "progressivewrench,pw1",
+        "inherit_codes": false,
+        "name": "OmniWrench Upgrade: 1"
+      },
+      {
+        "img": "/images/items/progressivewrench2.png",
+        "codes": "progressivewrench,pw2",
+        "inherit_codes": false,
+        "name": "OmniWrench Upgrade: 2"
+      }
+    ]
   }
 ]
