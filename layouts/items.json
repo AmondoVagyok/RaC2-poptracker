@@ -24,7 +24,7 @@
                 "grindboots",
                 "gravityboots",
                 "chargeboots",
-                "platinumbolt"
+                "progressivewrench"
               ],
               [
                 "dynamo",
@@ -39,14 +39,14 @@
                 "infiltrator",
                 "glider",
                 "levitator",
-                "qwarkstatuette",
-                "nanotechboost"
+                "qwarkstatuette"
               ],
               [
                 "boxbreaker",
                 "armormagnetizer",
                 "mapper",
-                "progressivewrench"
+                "platinumbolt",
+                "nanotechboost"
               ]
             ]
           }
