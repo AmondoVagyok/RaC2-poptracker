@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "0.4.2",
+			"download_url": "https://github.com/AmondoVagyok/RaC2-poptracker/releases/download/0.4.2/RaC2-poptracker_0.4.2.zip",
+			"sha256": "c99ae9c95f944f52d0e6f8487fc32c1201444caa509239de26b0a000c04e484b",
+			"changelog": [
+				"OmniWrench Upgrade tracking and new icons"
+			]
+		},
+		{
 			"package_version": "0.4.1",
 			"download_url": "https://github.com/AmondoVagyok/RaC2-poptracker/releases/download/0.4.1/RaC2-poptracker_0.4.1.zip",
 			"sha256": "320626b1372cd7ed8889cb59f69ff5848db7d8911ce3aeb94f1b75805b90dc2b",
