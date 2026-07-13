@@ -1,7 +1,7 @@
 {
-  "name": "Ratchet & Clank 2 Archipelago",
+  "name": "Ratchet & Clank 2 Archipelago (Pecomare's Fork Version)",
   "game_name": "Ratchet & Clank 2",
-  "package_version": "0.4.1",
+  "package_version": "0.1.0",
   "package_uid": "ratchet & clank 2_ap",
   "author": "Amondo",
   "variants": {
@@ -12,6 +12,6 @@
       ]
     }
   },
-  "versions_url": "https://raw.githubusercontent.com/AmondoVagyok/RaC2-poptracker/main/versions.json",
+  "versions_url": "https://raw.githubusercontent.com/AmondoVagyok/RaC2-poptracker/multi-feature-fork-poptracker/versions.json",
   "min_poptracker_version": "0.27.0"
 }
