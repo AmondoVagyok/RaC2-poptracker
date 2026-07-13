@@ -1,0 +1,10 @@
+{
+	"versions": [
+		{
+			"package_version": "0.1.0",
+			"download_url": "https://github.com/AmondoVagyok/RaC2-poptracker/releases/download/0.1.0-fork/RaC2fork-poptracker_0.1.0.zip",
+			"sha256": "8cf96da30e7f98772c0e2a3d71ff7fcad95e69aa2865a6a33f8bf5efc9c2c7ae",
+			"changelog": ["Initial Release"]
+		}
+	]
+}
